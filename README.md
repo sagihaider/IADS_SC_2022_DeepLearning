@@ -1,4 +1,6 @@
 # IADS_SC_2021_DeepLearning
+The Institute for Analytics and Data Science (IADS) 
+Analytics, Data Science & Decision Making Virtual Summer School, 26 July - 6 August 2021
 
 ### Course abstract:
 
@@ -16,9 +18,3 @@ Working knowledge of Python and neural networks would be useful.
 
 ### Will I be using particular software? 
 We will be using Google Colab for Python Programming.
-
-
-
-
-
-
